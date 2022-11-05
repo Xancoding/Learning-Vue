@@ -24,3 +24,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+## Previews
+![MySpace](https://raw.githubusercontent.com/Xancoding/Learning-Vue/main/screenshot.png)
